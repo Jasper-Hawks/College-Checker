@@ -1,8 +1,8 @@
 # College-Checker
-A script that checks the colleges that I have applied for. Created with Python and Selenium. 
+A script that checks the colleges that you have applied to. Created with Python and Selenium. 
 
 ## Prerequisites
-Requires Python,Selenium and Geckodriver
+Requires Python, Selenium and Geckodriver.
 
 ### Installing Selenium
 Selenium is an umbrella project for a range of tools and libraries that enable and support the automation of web browsers.
