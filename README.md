@@ -1,6 +1,8 @@
 # College-Checker
 A script that checks the colleges that you have applied to. Created with Python and Selenium. 
 
+**This no longer works because I do not have access to the college portals. If anyone would like to submit a PR to fix this issue that would be appreciated.**
+
 ## Prerequisites
 Requires Python, Selenium and Geckodriver.
 
